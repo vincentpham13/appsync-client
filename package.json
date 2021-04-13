@@ -1,0 +1,23 @@
+{
+  "name": "appsync-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-client": "^2.0.3",
+    "apollo-link": "^1.0.3",
+    "apollo-link-http": "^1.2.0",
+    "aws-appsync": "^4.0.3",
+    "aws-sdk": "^2.885.0",
+    "es6-promise": "^4.2.8",
+    "graphql": "^15.5.0",
+    "graphql-tag": "^2.11.0",
+    "isomorphic-fetch": "^2.2.1",
+    "ws": "^3.3.1"
+  }
+}
